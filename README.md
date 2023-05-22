@@ -17,8 +17,9 @@ Skills:  / HTML / CSS / SCSS / JS / TS / REACT
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawelslatwyezcky)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pawelslatwyezcky&show_icons=true&count_private=true)  
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pawelslatwyezcky&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pawelslatwyezcky)  
 
 ![GitHub metrics](https://metrics.lecoq.io/pawelslatwyezcky)  
+ -->
