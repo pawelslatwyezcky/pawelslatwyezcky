@@ -2,7 +2,7 @@
 #### I am frontend-focused web developer
 ![I am frontend-focused web developer](https://github.com/pawelslatwyezcky/pawelslatwyezcky/blob/main/LinkedIn%20Banner2.png?raw=true)
 
-I am a frontend focused web developer. I have a passion for creating attractive and functional websites.Check out some of my works.
+I have a passion for creating attractive and functional websites.Check out some of my works.
 
 Despite having core experience in frontend, I am always eager to expand my skillset and enjoy diving into building full-stack projects, architect and build backend.
 
