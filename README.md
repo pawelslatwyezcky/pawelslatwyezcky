@@ -6,8 +6,6 @@ I have a passion for creating attractive and functional websites.Check out some 
 
 Despite having core experience in frontend, I am always eager to expand my skillset and enjoy diving into building full-stack projects, architect and build backend.
 
-Besides programming, I am fond of running (finished two marathons), snowboarding, hiking, quiz games and travel with my wife and dog.
-
 Skills:  / HTML / CSS / SCSS / JS / TS / REACT
 
 - 🌱 I’m currently learning Vue.js, Backend 
